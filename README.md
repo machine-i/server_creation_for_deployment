@@ -15,7 +15,7 @@ A máquina virtual deve ter a rede configurada em modo ```Bridge```.
 
 
 
-Repositório em construção...
+<h3>Repositório em construção...</h3>
 
 
 <img src='./loading.gif' />
