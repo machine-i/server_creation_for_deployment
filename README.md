@@ -26,7 +26,7 @@ Instale o servidor ssh: ```sudo apt install ssh```.
 
 # Acessar vm por ssh
 
-Na sua máquina, execute ```ssh -X <nome_de_usuario_da_vm>@<ip_da_vm>``` no terminal.
+Na sua máquina, execute ```ssh <nome_de_usuario_da_vm>@<ip_da_vm>``` no terminal.
 
 
 
