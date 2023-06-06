@@ -8,7 +8,7 @@ Baixe um arquivo que servirá como imagem da máquina virtual. Basta baixar uma 
 
 A máquina virtual deve ter a rede configurada em modo ```Bridge```.
 
-Faça pesquisas e análises para que a vm funcione adequadamente.
+Faça pesquisas e análises para que as configurações da vm funcione adequadamente.
 
 # Inicie a máquina virtual...
 
