@@ -34,11 +34,3 @@ No terminal da sua máquina, crie a chave ssh pela qual fará a conexão com a v
 Copie todo o conteudo da chave gerada na sua máquina e cole em um arquivo na vm chamado "authorized_keys". Utilize ```nano ~/.ssh/authorized_keys``` para criar e abrir o arquivo e tecle Ctrl+Shift+V para colar.
 
 Na sua máquina, execute ```ssh <nome_de_usuario_da_vm>@<ip_da_vm>``` e verifique se conseguiu fazer a conexão. Caso tenha obtido sucesso, você acaba de criar seu servidor para deploy.
-
-
-
-
-<h3>Repositório em construção...</h3>
-
-
-<img src='./loading.gif' />
