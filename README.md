@@ -14,7 +14,7 @@ Faça pesquisas e análises para que as configurações da vm funcione adequadam
 
 Teste conexão com a vm utilizando do ```ping``` no terminal, caso não haja conexão certifique-se de corrigir para continuar.
 
-Para testar a conexão, abra o terminal na vm e digite o comando ```ip address show``` e salve o endereço de ip (pode encontra-lo com o comando ```ifconfig``` também, mas terá que executar ```sudo apt install net-tools``` primeiro). Na sua máquina, digite ```ping <endereco_de_ip_da_vm>``` para o teste.
+Para testar a conexão com o comando acima, abra o terminal na vm e digite o comando ```ip address show``` e salve o endereço de ip (pode encontra-lo com o comando ```ifconfig``` também, mas terá que executar ```sudo apt install net-tools``` primeiro). Na sua máquina, digite ```ping <endereco_de_ip_da_vm>``` para o teste.
 
 # Instalação do servidor ssh
 
