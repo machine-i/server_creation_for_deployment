@@ -12,7 +12,7 @@ Faça pesquisas e análises para que as configurações da vm funcione adequadam
 
 # Inicie a máquina virtual...
 
-Teste conexão com a vm utilizando do ```ping``` no terminal, caso não haja conexão pode ser que a vm tenha mudado a rede para modo NAT, seja qual for o problema, certifique-se de corrigir para continuar.
+Teste conexão com a vm utilizando do ```ping``` no terminal, caso não haja conexão certifique-se de corrigir para continuar.
 
 Para testar a conexão, abra o terminal na vm e digite o comando ```ip address show``` e salve o endereço de ip (pode encontra-lo com o comando ```ifconfig``` também, mas terá que executar ```sudo apt install net-tools``` primeiro). Na sua máquina, digite ```ping <endereco_de_ip_da_vm>``` para o teste.
 
