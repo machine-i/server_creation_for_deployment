@@ -26,7 +26,8 @@ Instale o servidor ssh: ```sudo apt install ssh```.
 
 # Acesso por ssh
 
-No terminal da sua máquina, crie a chave ssh pela qual fará a conexão com a vm, basta executar ```ssh-keygen -f ~/.ssh/<nome_da_chave_ssh> -t rsa -b 4096```
+No terminal da sua máquina, crie a chave ssh pela qual fará a conexão com a vm, basta executar:
+```ssh-keygen -f ~/.ssh/<nome_da_chave_ssh> -t rsa -b 4096```
 
 Copie todo o conteudo da chave gerada na sua máquina e cole em um arquivo na vm chamado "authorized_keys". Utilize ```nano ~/.ssh/authorized_keys``` para criar e abrir o arquivo e tecle Ctrl+Shift+V para colar.
 
